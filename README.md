@@ -45,20 +45,13 @@
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white"/>
 </p>
 
+<h4 align="center">Visualization Tools 📊</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Altair-FF1B68?style=flat-square&logo=altair&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Certified%20IRB%20Professional-4CAF50?style=flat-square&logo=professional&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Certified-FF0000?style=flat-square&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-0078D7?style=flat-square&logo=microsoft&logoColor=white"/>
-</p>
-
-
 
  
 <br>
