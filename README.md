@@ -36,10 +36,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white"/>
-
-
 </p>
 
+<h4 align="center">Project Management Tools 📋</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-2496ED?style=flat-square&logo=agile&logoColor=white"/>
