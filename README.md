@@ -1,8 +1,12 @@
+
+<figure style="text-align: center;" align="center">
+ <img src="https://github.com/user-attachments/assets/4091fcd8-9f0d-431c-914e-a8146765e72e">
+</figure>
+
+
 <p align="center">
- 
  <img src="https://badges.pufler.dev/repos/minko82"/>
  <img src="https://badges.pufler.dev/commits/monthly/minko82" />
-
 </p>
 
 <h2 align="center">Technology Stack </h2>
