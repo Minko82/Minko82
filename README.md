@@ -2,10 +2,8 @@
   <img src="https://github.com/user-attachments/assets/4091fcd8-9f0d-431c-914e-a8146765e72e" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://badges.pufler.dev/repos/minko82" />
-  <img src="https://badges.pufler.dev/commits/monthly/minko82" />
-</p>
+
+<br>
 
 <h2 align="center">Technology Stack</h2>
 
@@ -30,12 +28,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+<br>
+
 <h2 align="center">My Github Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=minko82&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minko82&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </p>
+
+<br>
 
 <h3 align="center">✨ Thank you for visiting my profile!✨</h3>
 
