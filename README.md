@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4091fcd8-9f0d-431c-914e-a8146765e72e" style="width: 80%; height: auto;" />
 </p>
+<p align="center">
+  🎨 Artwork Credit: <a href="https://www.pixilart.com/art/mystical-sunset-sr2a608ca9014aws3?ft=featured&ft_id=">pineapple-Man54</a>
+</p>
 
 <h2 align="center"> Hi there!</h3>
 <p align="center">Hi! I’m a curious coder who loves creating interactive, accessible, and engaging projects!  ✨💻🌟 </p>
