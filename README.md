@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center"> Hi there!</h3>
-<p align="center">Hi! I’m a curious coder who loves creating interactive, accessible, and engaging projects!  ✨💻🌟 </p>
+<p align="center">Hi! I’m a curious coder who loves creating interactive, accessible, and engaging projects!  ✨💻🌟</p>
 
 
 <br>
