@@ -5,8 +5,15 @@
   🎨 Artwork Credit: <a href="https://www.pixilart.com/art/mystical-sunset-sr2a608ca9014aws3?ft=featured&ft_id=">pineapple-Man54</a>
 </p>
 
-<h2 align="center"> Hi there!</h3>
+<h2 align="center"> Hi there!</h2>
 <p align="center">Hi! I’m a curious coder who loves creating interactive, accessible, and engaging projects!  ✨💻🌟</p>
+
+<br>
+<h3 align="center"> 🏅 Winner of HackCU 11 Hackathon </h3>
+
+<p align="center">
+  <a href="https://github.com/Minko82/blockvision">🔗 View the project on GitHub</a>
+</p>
 
 
 <br>
