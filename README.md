@@ -1,21 +1,23 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4091fcd8-9f0d-431c-914e-a8146765e72e" style="width: 80%; height: auto;" />
 </p>
+
 <p align="center">
   🎨 Artwork Credit: <a href="https://www.pixilart.com/art/mystical-sunset-sr2a608ca9014aws3?ft=featured&ft_id=">pineapple-Man54</a>
 </p>
 
+<br>
+
 <h2 align="center"> Hi there!</h2>
+
 <p align="center">Hi! I’m a curious coder who loves creating interactive, accessible, and engaging projects!  ✨💻🌟</p>
+<h4 align="center"> 🏅 Winner of HackCU 11 Hackathon </h4>
 
 <br>
-<h3 align="center"> 🏅 Winner of HackCU 11 Hackathon </h3>
-
-
 <br>
+
 
 <h2 align="center">Technology Stack</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-E34A86?style=flat-square&logo=java&logoColor=white" />
@@ -36,17 +38,23 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+
+<br>
 <br>
 
-<h2 align="center">My Github Stats</h2>
 
+<h2 align="center">My Github Stats</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=minko82&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minko82&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </p>
 
+
+<br>
 <br>
 
+
 <h3 align="center">✨ Thank you for visiting my profile!✨</h3>
+
 
 <hr>
