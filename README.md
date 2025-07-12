@@ -11,10 +11,6 @@
 <br>
 <h3 align="center"> 🏅 Winner of HackCU 11 Hackathon </h3>
 
-<p align="center">
-  <a href="https://github.com/Minko82/blockvision">🔗 View the project on GitHub</a>
-</p>
-
 
 <br>
 
