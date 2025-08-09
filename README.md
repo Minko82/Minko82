@@ -11,7 +11,7 @@
 <h2 align="center"> Hi there!</h2>
 
 <p align="center">Hi! I’m a curious engineer who loves creating interactive, accessible, and engaging projects!  ✨💻🌟</p>
-<h4 align="center"> 🏅 Winner of HackCU 11 Hackathon </h4>
+<h4 align="center"> 🏅 Hackathon Winner </h4>
 
 <br>
 <br>
