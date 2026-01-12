@@ -1,68 +1,41 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4091fcd8-9f0d-431c-914e-a8146765e72e" style="width: 80%; height: auto;" />
-</p>
+<div align="center">
 
-<p align="center">
-  🎨 Artwork Credit: <a href="https://www.pixilart.com/art/mystical-sunset-sr2a608ca9014aws3?ft=featured&ft_id=">pineapple-Man54</a>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:3A0CA3&height=260&section=header&text=Bio-Integrated%20Robotics&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Human-Centered%20Sensing%20%7C%20Embedded%20Systems%20%7C%20Edge%20AI&descSize=18&descAlignY=62&descAlign=50" width="100%" />
 
-<br>
-
-<h2 align="center"> Hi there!</h2>
-
-<p align="center">  I’m an <b>Embedded Systems Engineer</b> with a focus on biomedical engineering and accessibility projects!</p>
-<h4 align="center"> 🏅 Hackathon Winner </h4>
-
-<br>
-<br>
-
-
-<h2 align="center">Technology Stack</h2>
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Altair-FF1B68?style=for-the-badge&logo=altair&logoColor=white" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
-</p>
-
-<br>
-<br>
-
-
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=minko82&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&background=2D1B3D&ring=9D4EDD&fire=C77DFF&currStreakLabel=FFD369&sideLabels=EAEAEA&dates=BBBBBB" height="160" alt="streak graph" />
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Robotics-Researcher-7209B7?style=for-the-badge&logo=ros&logoColor=white" height="35" />
+  </a>
   
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minko82&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&bg_color=2D1B3D&title_color=9D4EDD&text_color=EAEAEA&icon_color=FFD369" height="160" alt="languages graph" />
-</p>
+  <br /> <a href="#">
+    <img src="https://img.shields.io/badge/Peer_Reviewer-IEEE_Transactions_on_Robotics_(T--RO)-F72585?style=for-the-badge&logo=ieee&logoColor=white" height="35" />
+  </a>
+</div>
+</div>
 
 
+<br />
 
+### Research Matrix
+My work focuses on **Bio-Integrated Systems**—bridging the gap between soft tissue and hard silicon. I design architectures that allow robots to physically sense, interpret, and adapt to human data in real-time.
 
-<br>
-<br>
+| **01. Bio-Instrumentation** <br> *(The Hardware)* | **02. Edge Perception** <br> *(The Brain)* | **03. Human-Robot Integration** <br> *(The Loop)* |
+| :--- | :--- | :--- |
+| Designing **solid-state sensors** and compliant circuits that capture high-fidelity physiological signals (respiration, EMG, tactile) directly from the human body. | Porting heavy computer vision and signal processing algorithms onto **embedded platforms** (Jetson/Orin) for zero-latency inference. | Creating **closed-loop control systems** where human input dictates robotic response, prioritizing safety and intuitive interaction. |
 
+<br />
 
-<h3 align="center">✨ Thank you for visiting my profile!✨</h3>
+### Technical Stack
 
+| **Languages & Core** | **Robotics & Embedded** | **Data & Tools** |
+| :--- | :--- | :--- |
+| ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) | ![Altair](https://img.shields.io/badge/Altair-Viz-FF1B68?style=flat-square&logo=altair&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![NVIDIA](https://img.shields.io/badge/Jetson_/_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white) | ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-e65a0e?style=flat-square&logo=mathworks&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) |
+<br />
 
-<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minko82&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&hide_title=true&exclude_repo=learning-react,hosting-a-webpage,mancala-ai" height="140" alt="languages graph" />
+</div>
