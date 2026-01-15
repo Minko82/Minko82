@@ -1,27 +1,12 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:3A0CA3&height=260&section=header&text=Bio-Integrated%20Robotics&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Human-Centered%20Sensing%20%7C%20Embedded%20Systems%20%7C%20Edge%20AI&descSize=18&descAlignY=62&descAlign=50" width="100%" />
-
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Robotics-Researcher-7209B7?style=for-the-badge&logo=ros&logoColor=white" height="35" />
-  </a>
-  
-  <br /> <a href="#">
-    <img src="https://img.shields.io/badge/Peer_Reviewer-IEEE_Transactions_on_Robotics_(T--RO)-F72585?style=for-the-badge&logo=ieee&logoColor=white" height="35" />
-  </a>
-</div>
 </div>
 
 
 <br />
 
-### Research Matrix
 My work focuses on **Bio-Integrated Systems**—bridging the gap between soft tissue and hard silicon. I design architectures that allow robots to physically sense, interpret, and adapt to human data in real-time.
-
-| **01. Bio-Instrumentation** <br> *(The Hardware)* | **02. Edge Perception** <br> *(The Brain)* | **03. Human-Robot Integration** <br> *(The Loop)* |
-| :--- | :--- | :--- |
-| Designing **solid-state sensors** and compliant circuits that capture high-fidelity physiological signals (respiration, EMG, tactile) directly from the human body. | Porting heavy computer vision and signal processing algorithms onto **embedded platforms** (Jetson/Orin) for zero-latency inference. | Creating **closed-loop control systems** where human input dictates robotic response, prioritizing safety and intuitive interaction. |
 
 <br />
 
