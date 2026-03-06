@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Robotics%20Researcher-DB7093?style=for-the-badge&logo=robot&logoColor=white&labelColor=0A66C2" alt="Robotics Banner" />
+  <img src="https://img.shields.io/badge/Robotics%20Researcher-8A73C4?style=for-the-badge&logo=robot&logoColor=white&labelColor=5E4B91" alt="Robotics Banner" />
   <h1>Artemis</h1>
   <p>Healthcare Robotics, Sensors & Embedded Systems Engineer</p>
 </div>
-
 <br>
 
 ---
