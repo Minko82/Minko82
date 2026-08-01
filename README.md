@@ -22,4 +22,3 @@
 
 ### Connect With Me
 🌐 [Website](https://artemisrobotics.org/)
-📧 [Email](mailto:arte2837@colorado.edu)
