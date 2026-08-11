@@ -18,18 +18,18 @@
 
 ### Tech Stack
 
-<img src="https://img.shields.io/badge/Python-2D333B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-2D333B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Jupyter-2D333B?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 
-<img src="https://img.shields.io/badge/ESP32-2D333B?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/Arduino-2D333B?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/CMake-2D333B?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-<img src="https://img.shields.io/badge/Jetson%20Orin-2D333B?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Orin" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+<img src="https://img.shields.io/badge/Jetson%20Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Orin" />
 
-<img src="https://img.shields.io/badge/OpenCV-2D333B?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/LeRobot-2D333B?style=for-the-badge&logo=huggingface&logoColor=white" alt="LeRobot" />
-<img src="https://img.shields.io/badge/RealSense-2D333B?style=for-the-badge&logo=intel&logoColor=white" alt="RealSense" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/LeRobot-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LeRobot" />
+<img src="https://img.shields.io/badge/RealSense-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="RealSense" />
 
 </div>
 
