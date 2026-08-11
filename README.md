@@ -9,7 +9,7 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minko82&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=xlerobot-pro-website" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-minko82s-projects.vercel.app/api/top-langs?username=minko82&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=xlerobot-pro-website,github-readme-stats" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
