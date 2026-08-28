@@ -1,10 +1,8 @@
 <div align="center">
 
-<h1>Artemis</h1>
+<h1>Robotics &amp; Embedded Systems</h1>
 
-<h3>Robotics Researcher</h3>
-
-<p><strong>Healthcare Robotics &nbsp;·&nbsp; Sensors &nbsp;·&nbsp; Embedded Systems</strong></p>
+<p>Sensing skins for robots, and the on-device AI that turns contact into response.</p>
 
 <a href="https://artemisrobotics.org/"><img src="https://img.shields.io/badge/Website-5E4B91?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
