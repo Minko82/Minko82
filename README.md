@@ -33,7 +33,7 @@
 
 ### GitHub Stats
 
-<img height="165" src="https://github-readme-stats-minko82s-projects.vercel.app/api/top-langs?username=minko82&layout=compact&langs_count=8&exclude_repo=xlerobot-pro-website,github-readme-stats,xlerobot-pro,autosense_magpie_control&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=171B24&title_color=8A73C4&text_color=C9D1D9" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-minko82s-projects.vercel.app/api/top-langs?username=minko82&layout=compact&langs_count=6&exclude_repo=xlerobot-pro-website,github-readme-stats,xlerobot-pro,autosense_magpie_control&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=171B24&title_color=8A73C4&text_color=C9D1D9" alt="Top Languages" />
 <img height="165" src="./profile/streak.svg" alt="Streak Stats" />
 
 </div>
